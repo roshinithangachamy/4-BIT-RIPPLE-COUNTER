@@ -1,4 +1,7 @@
-# 4-BIT-RIPPLE-COUNTER
+## EX-12 <p align="center"><b> 4-BIT-RIPPLE-COUNTER </b>    
+
+**DATE:**
+
 
 **AIM:**
 
@@ -24,7 +27,8 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 **Procedure**
 
-/* write all the steps invloved */
+```
+```
 
 **PROGRAM**
 
